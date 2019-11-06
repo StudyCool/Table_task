@@ -1,5 +1,5 @@
 table{border-spacing: 0;
-    font-family: Arial, SansSerif
+    font-family: Arial, SansSerif;
     margin: 0 auto;
     text-align: center;
     margin: 10px;
@@ -26,13 +26,13 @@ td{
     padding: 20px;
     color: #525358;
  }
-td.united{align }
+
 a{text-decoration: none;
     color: #525358;}
 div{width: 80%;
     height: 80%;
     border: solid 1px dimgrey;
-    background: #d3d3d3;
+    background: #d3d3d3;}
 
 /*
 
